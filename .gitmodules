@@ -1,0 +1,9 @@
+[submodule "trcrpm_sub"]
+	path = trcrpm_sub
+	url = https://github.com/l1aran/trcrpm_sub.git
+[submodule "crosscat_sub"]
+	path = crosscat_sub
+	url = https://github.com/l1aran/crosscat_sub.git
+[submodule "cgpm_sub"]
+	path = cgpm_sub
+	url = https://github.com/l1aran/cgpm_sub.git
