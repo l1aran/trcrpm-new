@@ -6,7 +6,7 @@ extensions = [
     Extension(
         "crosscat.src.cython_code.State",  # Name of the module to generate
         sources=["crosscat/cpp_code/src/State.cpp"],  # Path to the .cpp source file
-        include_dirs=["crosscat/cpp_code/include"],  # Include directory for header files
+        include_dirs=["crosscat/cpp_code/include/CrossCat"],  # Include directory for header files
         language="c++",  # Specify the language for compilation
         extra_compile_args=["-std=c++11"],  # Use C++11 standard
     )
