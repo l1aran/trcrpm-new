@@ -1,9 +1,0 @@
-[submodule "cgpm"]
-    path = cgpm
-    url = https://github.com/l1aran/cgpm.git
-[submodule "crosscat"]
-    path = crosscat
-    url = https://github.com/l1aran/crosscat.git
-[submodule "trcrpm"]
-    path = trcrpm
-    url = https://github.com/l1aran/trcrpm.git
